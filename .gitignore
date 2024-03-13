@@ -1,0 +1,6 @@
+﻿# ignore
+bin/
+.vs/
+obj/
+zxing.dll
+packages/
